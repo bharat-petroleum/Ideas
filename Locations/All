@@ -1,0 +1,3678 @@
+[
+    {
+        "id": "1100",
+        "description": "MATHURA INSTALLATION"
+    },
+    {
+        "id": "1101",
+        "description": "SHAKURBASTI INSTALLATION"
+    },
+    {
+        "id": "1102",
+        "description": "MEERUT CO-OP DEPOT"
+    },
+    {
+        "id": "1103",
+        "description": "AGRA CO-OP DEPOT"
+    },
+    {
+        "id": "1104",
+        "description": "NAJIBABAD CO-OP DEPOT"
+    },
+    {
+        "id": "1105",
+        "description": "SAHARANPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1106",
+        "description": "AONLA CO-OP DEPOT"
+    },
+    {
+        "id": "1107",
+        "description": "SHAHJAHANPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1108",
+        "description": "KATHGODAM CO-OP DEPOT"
+    },
+    {
+        "id": "1109",
+        "description": "PATHANKOT CO-OP DEPOT"
+    },
+    {
+        "id": "1110",
+        "description": "JAMMU CO-OP DEPOT"
+    },
+    {
+        "id": "1111",
+        "description": "HISSAR DEPOT"
+    },
+    {
+        "id": "1112",
+        "description": "DURAI CO-OP DEPOT"
+    },
+    {
+        "id": "1113",
+        "description": "BHARATPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1114",
+        "description": "KOTA CO-OP DEPOT"
+    },
+    {
+        "id": "1115",
+        "description": "UDAIPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1116",
+        "description": "GORAKHPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1117",
+        "description": "GONDA CO-OP DEPOT"
+    },
+    {
+        "id": "1118",
+        "description": "KARARI (JHANSI) CO-OP DEPOT"
+    },
+    {
+        "id": "1119",
+        "description": "BHAITALPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1120",
+        "description": "BHATINDA CO-OP DEPOT"
+    },
+    {
+        "id": "1122",
+        "description": "JAIPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1124",
+        "description": "ALLHABAD (IOC) DU PIPLINE"
+    },
+    {
+        "id": "1125",
+        "description": "KANPUR (IOC) DU PIPELINE"
+    },
+    {
+        "id": "1126",
+        "description": "MATHURA DESPATCH UNIT"
+    },
+    {
+        "id": "1127",
+        "description": "PANIPAT DESPATCH UNIT"
+    },
+    {
+        "id": "1128",
+        "description": "AMBALA DESPATCH UNIT"
+    },
+    {
+        "id": "1129",
+        "description": "SANGRUR DESPATCH UNIT"
+    },
+    {
+        "id": "1130",
+        "description": "SRINAGAR Co Op Depot"
+    },
+    {
+        "id": "1131",
+        "description": "CHANNI-DHAMATAL COD"
+    },
+    {
+        "id": "1132",
+        "description": "CHANDIGARH CO DEPOT"
+    },
+    {
+        "id": "1133",
+        "description": "GURGAON COMMN.OP.DEPOT"
+    },
+    {
+        "id": "1134",
+        "description": "HANUMANGARH COD"
+    },
+    {
+        "id": "1135",
+        "description": "PAMPORE COD"
+    },
+    {
+        "id": "1138",
+        "description": "JALANDHAR TOP"
+    },
+    {
+        "id": "1139",
+        "description": "BIJWASAN INSTALLATION"
+    },
+    {
+        "id": "1140",
+        "description": "REWARI TOP"
+    },
+    {
+        "id": "1141",
+        "description": "PANIPAT INSTALLATION"
+    },
+    {
+        "id": "1142",
+        "description": "SANGANER TOP"
+    },
+    {
+        "id": "1143",
+        "description": "SALAWAS TOP"
+    },
+    {
+        "id": "1144",
+        "description": "MUGHALSARAI TAP OFF POINT"
+    },
+    {
+        "id": "1145",
+        "description": "SANGRUR TOP"
+    },
+    {
+        "id": "1147",
+        "description": "LALITPUR TKD"
+    },
+    {
+        "id": "1151",
+        "description": "PARTAPUR (HPC) HOSP.DEPOT"
+    },
+    {
+        "id": "1153",
+        "description": "SHAMLI COD"
+    },
+    {
+        "id": "1157",
+        "description": "FAZALGANJ DEPOT"
+    },
+    {
+        "id": "1158",
+        "description": "PARWANOO COMMISSION OP. DEPOT"
+    },
+    {
+        "id": "1160",
+        "description": "ROORKEE CO-OP DEPOT"
+    },
+    {
+        "id": "1161",
+        "description": "KULU (IOC) HOSP.DEPOT"
+    },
+    {
+        "id": "1162",
+        "description": "Kanpur Depot"
+    },
+    {
+        "id": "1163",
+        "description": "AMOUSI (IBP) DEPOT."
+    },
+    {
+        "id": "1167",
+        "description": "IOC LANDORA"
+    },
+    {
+        "id": "1168",
+        "description": "KOTA TOP"
+    },
+    {
+        "id": "1169",
+        "description": "HMEL Despatch Unit"
+    },
+    {
+        "id": "1171",
+        "description": "HARIDWAR DEPOT"
+    },
+    {
+        "id": "1180",
+        "description": "AMOUSI (HPC) DEPOT."
+    },
+    {
+        "id": "1181",
+        "description": "PIYALA TERMINAL"
+    },
+    {
+        "id": "1182",
+        "description": "Lalru POL Depot"
+    },
+    {
+        "id": "1184",
+        "description": "BAGRU HPC HOSP"
+    },
+    {
+        "id": "1185",
+        "description": "ASALPUR TERMINAL (JAIPUR)"
+    },
+    {
+        "id": "1188",
+        "description": "BAHADURGARH DU"
+    },
+    {
+        "id": "1190",
+        "description": "LEH DEPOT"
+    },
+    {
+        "id": "1191",
+        "description": "NALAGARH DEPOT"
+    },
+    {
+        "id": "1192",
+        "description": "AMM CHANDIGARH"
+    },
+    {
+        "id": "1193",
+        "description": "AMM DELHI"
+    },
+    {
+        "id": "1194",
+        "description": "AMM JAIPUR"
+    },
+    {
+        "id": "1195",
+        "description": "AMM LUCKNOW"
+    },
+    {
+        "id": "1196",
+        "description": "AMM PANIPAT"
+    },
+    {
+        "id": "1200",
+        "description": "BUDGE BUDGE INSTALLATION"
+    },
+    {
+        "id": "1201",
+        "description": "HALDIA COSTAL INSTALLATION"
+    },
+    {
+        "id": "1202",
+        "description": "PARADEEP COSTAL INSTALLATION"
+    },
+    {
+        "id": "1203",
+        "description": "BARAUNI INSTALLATION"
+    },
+    {
+        "id": "1204",
+        "description": "BERHAMPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1205",
+        "description": "RANCHI CO-OP DEPOT"
+    },
+    {
+        "id": "1206",
+        "description": "CUTTACK DEPOT"
+    },
+    {
+        "id": "1207",
+        "description": "TATANAGAR CO-OP DEPOT"
+    },
+    {
+        "id": "1208",
+        "description": "SAMBALPUR CO-OP DEPOT"
+    },
+    {
+        "id": "1209",
+        "description": "BALASORE CO-OP DEPOT"
+    },
+    {
+        "id": "1210",
+        "description": "KATIHAR CO-OP DEPOT"
+    },
+    {
+        "id": "1211",
+        "description": "DHANBAD CO-OP DEPOT"
+    },
+    {
+        "id": "1212",
+        "description": "DALGAON CO-OP DEPOT"
+    },
+    {
+        "id": "1213",
+        "description": "MALDA CO-OP DEPOT"
+    },
+    {
+        "id": "1214",
+        "description": " Muzaffarpur Depot"
+    },
+    {
+        "id": "1216",
+        "description": "Tinsukia Despatch Unit"
+    },
+    {
+        "id": "1218",
+        "description": "SILGURI DESPATCH UNIT"
+    },
+    {
+        "id": "1219",
+        "description": "GAUHATI DESPATCH UNIT"
+    },
+    {
+        "id": "1220",
+        "description": "BARAUNI (IOC) DESPATCH UNIT"
+    },
+    {
+        "id": "1221",
+        "description": "MAURIGRAM DESPATCH UNIT"
+    },
+    {
+        "id": "1223",
+        "description": "NEW JALPAIGURI TOP"
+    },
+    {
+        "id": "1224",
+        "description": "RAJBANDH DESPATCH UNIT"
+    },
+    {
+        "id": "1225",
+        "description": "RAJBANDH TOP"
+    },
+    {
+        "id": "1226",
+        "description": "NUMALIGARH DU"
+    },
+    {
+        "id": "1232",
+        "description": "ROURKELA HPC HOSP.DEPOT"
+    },
+    {
+        "id": "1233",
+        "description": "BHAGALPUR (IOC) HOSP.DEPOT."
+    },
+    {
+        "id": "1235",
+        "description": "BETKUCHI DESPATCH UNIT"
+    },
+    {
+        "id": "1237",
+        "description": "RONGPOO DEPOT."
+    },
+    {
+        "id": "1244",
+        "description": "RANGAPANI DU (NRL)"
+    },
+    {
+        "id": "1245",
+        "description": "IOCL  Lumding DU"
+    },
+    {
+        "id": "1246",
+        "description": "JASIDIH IOC DU"
+    },
+    {
+        "id": "1247",
+        "description": "Jharsuguda IOC DU"
+    },
+    {
+        "id": "1248",
+        "description": "HALDIA RELIANCE DU"
+    },
+    {
+        "id": "1263",
+        "description": "PATNA TOP"
+    },
+    {
+        "id": "1264",
+        "description": "KHUNTI  IOC  DU"
+    },
+    {
+        "id": "1265",
+        "description": "RADHAGAON DEPOT"
+    },
+    {
+        "id": "1291",
+        "description": "AMM BHUBNESHWAR"
+    },
+    {
+        "id": "1292",
+        "description": "AMM PATNA"
+    },
+    {
+        "id": "1293",
+        "description": "AMM KOLKATA"
+    },
+    {
+        "id": "1295",
+        "description": "AMM Ranchi"
+    },
+    {
+        "id": "1300",
+        "description": "ERNAKULAM LUBE"
+    },
+    {
+        "id": "1301",
+        "description": "IRIMPANAM INSTALLATION"
+    },
+    {
+        "id": "1302",
+        "description": "COIMBATORE INSTALLATION"
+    },
+    {
+        "id": "1303",
+        "description": "VISAKA INSTALLATION"
+    },
+    {
+        "id": "1304",
+        "description": "MANGALORE INSTALLATION"
+    },
+    {
+        "id": "1305",
+        "description": "KAKINADA INSTALLATION"
+    },
+    {
+        "id": "1306",
+        "description": "TONDIARPET INSTALLATION"
+    },
+    {
+        "id": "1308",
+        "description": "RAICHUR CO-OP DEPOT"
+    },
+    {
+        "id": "1309",
+        "description": "MYSORE CO-OP DEPOT"
+    },
+    {
+        "id": "1310",
+        "description": "DEVANAGUNTHI CO-OP DEPOT"
+    },
+    {
+        "id": "1311",
+        "description": "HUBLI CO-OP DEPOT"
+    },
+    {
+        "id": "1312",
+        "description": "DESUR CO-OP DEPOT"
+    },
+    {
+        "id": "1313",
+        "description": "CANNANORE CO-OP DEPOT"
+    },
+    {
+        "id": "1314",
+        "description": "TRIVANDRUM CO-OP DEPOT"
+    },
+    {
+        "id": "1315",
+        "description": "TIRUNELVELI CO-OP DEPOT"
+    },
+    {
+        "id": "1316",
+        "description": "ERODE (HPC) HOSP. DEPOT"
+    },
+    {
+        "id": "1317",
+        "description": "ELATUR (HPC) HOSP.DEPOT."
+    },
+    {
+        "id": "1318",
+        "description": "MADURAI CO-OP DEPOT"
+    },
+    {
+        "id": "1319",
+        "description": "TIRUCHIRAPALLI CO-OP DEPOT"
+    },
+    {
+        "id": "1320",
+        "description": "TADA CO-OP DEPOT"
+    },
+    {
+        "id": "1321",
+        "description": "SANKARI CO-OP DEPOT"
+    },
+    {
+        "id": "1323",
+        "description": "NIZAMBAD CO-OP DEPOT"
+    },
+    {
+        "id": "1324",
+        "description": "ONGOLE CO-OP DEPOT"
+    },
+    {
+        "id": "1325",
+        "description": "WARANGAL CO-OP DEPOT"
+    },
+    {
+        "id": "1326",
+        "description": "CHERLAPALLI CO-OP DEPOT"
+    },
+    {
+        "id": "1328",
+        "description": "VISAKA DESPATCH UNIT"
+    },
+    {
+        "id": "1329",
+        "description": "KONDAPALLI TOP"
+    },
+    {
+        "id": "1330",
+        "description": "\"RCO,KOCHI REFINERIES LTD.\""
+    },
+    {
+        "id": "1331",
+        "description": "CHENNAI DESPATCH UNIT"
+    },
+    {
+        "id": "1333",
+        "description": "NARIMANAM DESPATCH UNIT"
+    },
+    {
+        "id": "1334",
+        "description": "GOKAVARAM DESPATCH UNIT"
+    },
+    {
+        "id": "1338",
+        "description": "BIJAPUR IOC HOSP. DEPOT."
+    },
+    {
+        "id": "1339",
+        "description": "GOKAVARAM TOP"
+    },
+    {
+        "id": "1340",
+        "description": "HASSAN TOP"
+    },
+    {
+        "id": "1343",
+        "description": "NAVALUR (HPC) HOSP. DEPOT"
+    },
+    {
+        "id": "1345",
+        "description": "SHIMOGA (HPC) HOSP. DEPOT"
+    },
+    {
+        "id": "1346",
+        "description": "GUNTAKAL (HPC) DEPOT"
+    },
+    {
+        "id": "1348",
+        "description": "GULBERGA (HPC) DEPOT"
+    },
+    {
+        "id": "1349",
+        "description": "KARUR INSTALLATION"
+    },
+    {
+        "id": "1350",
+        "description": "IRUGUR INSTALLATION"
+    },
+    {
+        "id": "1352",
+        "description": "1352 - ENNORE COASTAL INSTALLATION"
+    },
+    {
+        "id": "1356",
+        "description": "CUDDAPAH (HPC) DEPOT"
+    },
+    {
+        "id": "1358",
+        "description": "THATTIPAKA DU"
+    },
+    {
+        "id": "1365",
+        "description": "Ennore Tank Terminal"
+    },
+    {
+        "id": "1366",
+        "description": "GOOTY CO-OP DEPOT"
+    },
+    {
+        "id": "1369",
+        "description": "RIL Chennai DU"
+    },
+    {
+        "id": "1370",
+        "description": "KRISHNAPATNAM COASTAL TERMINAL"
+    },
+    {
+        "id": "1371",
+        "description": "GULBARGA DEPOT"
+    },
+    {
+        "id": "1372",
+        "description": "RAMAGUNDAM HPC HOSP DEPOT"
+    },
+    {
+        "id": "1391",
+        "description": "AMM BANGALORE"
+    },
+    {
+        "id": "1392",
+        "description": "AMM COCHIN"
+    },
+    {
+        "id": "1394",
+        "description": "AMM CHENNAI"
+    },
+    {
+        "id": "1395",
+        "description": "AMM SECUNDERABAD"
+    },
+    {
+        "id": "1400",
+        "description": "KANDLA INSTALLATION"
+    },
+    {
+        "id": "1401",
+        "description": "MANMAD INSTALLATION"
+    },
+    {
+        "id": "1402",
+        "description": "KOYALI INSTALLATION"
+    },
+    {
+        "id": "1403",
+        "description": "SEWREE INSTALLATION"
+    },
+    {
+        "id": "1405",
+        "description": "GAIGON CO-OP DEPOT"
+    },
+    {
+        "id": "1406",
+        "description": "VAPI CO-OP DEPOT"
+    },
+    {
+        "id": "1407",
+        "description": "SURAT CO-OP DEPOT"
+    },
+    {
+        "id": "1408",
+        "description": "RAJKOT CO-OP DEPOT"
+    },
+    {
+        "id": "1409",
+        "description": "HAZIRA CO-OP DEPOT"
+    },
+    {
+        "id": "1410",
+        "description": "BHILAI CO-OP DEPOT"
+    },
+    {
+        "id": "1411",
+        "description": "BAKANIA CO-OP DEPOT"
+    },
+    {
+        "id": "1412",
+        "description": "KHANDWA CO-OP DEPOT"
+    },
+    {
+        "id": "1413",
+        "description": "RAIRU CO-OP DEPOT"
+    },
+    {
+        "id": "1414",
+        "description": "MANGLIA CO-OP DEPOT"
+    },
+    {
+        "id": "1415",
+        "description": "THADALI CO-OP DEPOT"
+    },
+    {
+        "id": "1416",
+        "description": "BADNERA CO-OP DEPOT"
+    },
+    {
+        "id": "1417",
+        "description": "BHITONI POL CO-OP DEPOT"
+    },
+    {
+        "id": "1419",
+        "description": "AKOLNER CO-OP DEPOT"
+    },
+    {
+        "id": "1420",
+        "description": "PAKNI CO-OP DEPOT"
+    },
+    {
+        "id": "1422",
+        "description": "MIRAJ CO-OP DEPOT"
+    },
+    {
+        "id": "1423",
+        "description": "BORKHEDI CO-OP DEPOT"
+    },
+    {
+        "id": "1425",
+        "description": "SABARMATI(IOC) DESPATCH UNIT"
+    },
+    {
+        "id": "1426",
+        "description": "LONI (HPC) DESPATCH UNIT"
+    },
+    {
+        "id": "1427",
+        "description": "VASHI (HPC) DESPATCH UNIT"
+    },
+    {
+        "id": "1429",
+        "description": "VASCO DESPATCH UNIT"
+    },
+    {
+        "id": "1434",
+        "description": "KHAPRI SAD"
+    },
+    {
+        "id": "1437",
+        "description": "SATNA HPC HOSP.DEPOT"
+    },
+    {
+        "id": "1439",
+        "description": "RATLAM HPC HOSP.DEPOT"
+    },
+    {
+        "id": "1442",
+        "description": "GAIGAON (HPC) DEPOT"
+    },
+    {
+        "id": "1444",
+        "description": "SIDHPUR TOP"
+    },
+    {
+        "id": "1445",
+        "description": "JAWAHARLAL NEHRU PORT TRUST"
+    },
+    {
+        "id": "1446",
+        "description": "Bina Despatch Unit"
+    },
+    {
+        "id": "1448",
+        "description": "JAMNAGAR RETAIL DU"
+    },
+    {
+        "id": "1449",
+        "description": "Koyali LPG Dispatch Unit"
+    },
+    {
+        "id": "1450",
+        "description": "RAIPUR HPC POL DEPOT"
+    },
+    {
+        "id": "1452",
+        "description": "MANGLIA RECEIPT TERMINAL"
+    },
+    {
+        "id": "1453",
+        "description": "NAVAEGAON DEPOT"
+    },
+    {
+        "id": "1456",
+        "description": "ZIOL TERMINAL"
+    },
+    {
+        "id": "1461",
+        "description": "VADINAR (EOL) DU"
+    },
+    {
+        "id": "1462",
+        "description": "Logical Plant for Thane Territory"
+    },
+    {
+        "id": "1466",
+        "description": "IOTL RAIPUR CUT"
+    },
+    {
+        "id": "1467",
+        "description": "Shirud (IOC) Despatch Unit"
+    },
+    {
+        "id": "1468",
+        "description": "HAVELI INSTALLATION"
+    },
+    {
+        "id": "1469",
+        "description": "MUNDRA HPC HOSP.DEPOT"
+    },
+    {
+        "id": "1470",
+        "description": "Singrauli Depot"
+    },
+    {
+        "id": "1471",
+        "description": "GP(I) PL TERMINAL"
+    },
+    {
+        "id": "1472",
+        "description": "BPC ONGC HAZIRA DU"
+    },
+    {
+        "id": "1492",
+        "description": "AMM MUMBAI"
+    },
+    {
+        "id": "1494",
+        "description": "AMM BHOPAL"
+    },
+    {
+        "id": "1498",
+        "description": "AMM AHMEDABAD"
+    },
+    {
+        "id": "2001",
+        "description": "DAHEJ GAS PIPELINE"
+    },
+    {
+        "id": "2101",
+        "description": "UDAIPUR BITUMEN DEPOT"
+    },
+    {
+        "id": "2303",
+        "description": "\"GANESH BENZOPLAST, KOCHI(I&C)\""
+    },
+    {
+        "id": "2308",
+        "description": "MYLATTI DEPOT.(C/O KPCL)-I&C"
+    },
+    {
+        "id": "2309",
+        "description": "K S E B NALLALAM DEPOT. (I&C)"
+    },
+    {
+        "id": "2310",
+        "description": "NTPC CHEPPAD DEPOT. (I&C)"
+    },
+    {
+        "id": "2313",
+        "description": "IMC LTD."
+    },
+    {
+        "id": "2401",
+        "description": "JAWAHARLAL NEHRU PORT TRUST"
+    },
+    {
+        "id": "2402",
+        "description": "NHAVA (ONGC) I&C DEPOT"
+    },
+    {
+        "id": "2403",
+        "description": "\"BPCL I&C BITUMEN DEPOT,RAIPUR\""
+    },
+    {
+        "id": "2404",
+        "description": "JABALPUR BITUMEN DEPOT (I&C)"
+    },
+    {
+        "id": "2405",
+        "description": "INDORE BULK BITUMEN DEPOT"
+    },
+    {
+        "id": "2406",
+        "description": "BHAVNAGAR  I&C COD"
+    },
+    {
+        "id": "2407",
+        "description": "GANDHAR  (ONGC) I&C DESPATCH UNIT"
+    },
+    {
+        "id": "2408",
+        "description": "ANKLESHWAR COD"
+    },
+    {
+        "id": "2409",
+        "description": "VAPI (I&C) COD"
+    },
+    {
+        "id": "2411",
+        "description": "VASAI I&C DEPOT - MTO PACKAGING"
+    },
+    {
+        "id": "2412",
+        "description": "INDIAN OIL TANKING LTD."
+    },
+    {
+        "id": "2414",
+        "description": "CRMB PLANT KOPER KAIRENE"
+    },
+    {
+        "id": "2417",
+        "description": "User group for plant 2417"
+    },
+    {
+        "id": "2420",
+        "description": "Baroda Bitumen Depot"
+    },
+    {
+        "id": "2601",
+        "description": "GAS Punjab 1 - RUPNAGAR"
+    },
+    {
+        "id": "2602",
+        "description": "GAS Haryana 1 - YAMUNANAGAR"
+    },
+    {
+        "id": "2603",
+        "description": "GAS Uttar Pradesh 1 - SAHARANPUR"
+    },
+    {
+        "id": "2604",
+        "description": "GAS Haryana 2 - ROHTAK"
+    },
+    {
+        "id": "2605",
+        "description": "CGD Uttar Pradesh 2 - RAEBARELI"
+    },
+    {
+        "id": "2606",
+        "description": "CGD Himachal Pradesh 1 - UNA"
+    },
+    {
+        "id": "2607",
+        "description": "GAS Rajasthan 1 - GANGANAGAR"
+    },
+    {
+        "id": "2609",
+        "description": "GAS Uttar Pradesh 3 - LAKHIMPUR"
+    },
+    {
+        "id": "2621",
+        "description": "CGD Odisha 2 - ANGUL"
+    },
+    {
+        "id": "2622",
+        "description": "CGD Odisha 4 - JAJPUR"
+    },
+    {
+        "id": "2623",
+        "description": "CGD Odisha 1 - SAMBALPUR"
+    },
+    {
+        "id": "2624",
+        "description": "CGD Odisha 3 - JATSINGHPUR"
+    },
+    {
+        "id": "2625",
+        "description": "CGD Jharkhand 1 - CHATRA"
+    },
+    {
+        "id": "2626",
+        "description": "GAS Bihar 1 - DARBANGHA"
+    },
+    {
+        "id": "2627",
+        "description": "CGD West Bengal 2 - BANKURA"
+    },
+    {
+        "id": "2628",
+        "description": "CGD West Bengal 1 - ALIPURDUAR"
+    },
+    {
+        "id": "2629",
+        "description": "GAS Bihar 2 - GOPALGANJ"
+    },
+    {
+        "id": "2633",
+        "description": "GAS Tamilnadu 1 - ERODE"
+    },
+    {
+        "id": "2634",
+        "description": "CGD Karnataka 1 - BELLARY"
+    },
+    {
+        "id": "2635",
+        "description": "CGD Karnataka 2 - BIDAR"
+    },
+    {
+        "id": "2641",
+        "description": "CGD Maharashtra 1 - AHMEDNAGAR"
+    },
+    {
+        "id": "2642",
+        "description": "CGD Maharashtra 2 - SANGLI"
+    },
+    {
+        "id": "2643",
+        "description": "CGD Madhya Pradesh 1 - SATNA"
+    },
+    {
+        "id": "2644",
+        "description": "CGD Madhya Pradesh 2 - SIDHI"
+    },
+    {
+        "id": "2646",
+        "description": "GAS Chhattisgarh 1 - KORIYA"
+    },
+    {
+        "id": "3101",
+        "description": "LALRU LPG PLANT"
+    },
+    {
+        "id": "3102",
+        "description": "PIYALA (ASAOTI) LPG PLANT"
+    },
+    {
+        "id": "3103",
+        "description": "HISSAR LPG PLANT"
+    },
+    {
+        "id": "3104",
+        "description": "JAIPUR LPG PLANT"
+    },
+    {
+        "id": "3105",
+        "description": "UDAIPUR LPG PLANT"
+    },
+    {
+        "id": "3106",
+        "description": "BIKANER LPG PLANT"
+    },
+    {
+        "id": "3107",
+        "description": "BAREILLY LPG PLANT"
+    },
+    {
+        "id": "3108",
+        "description": "LUCKNOW LPG PLANT"
+    },
+    {
+        "id": "3109",
+        "description": "SULTANPUR LPG PLANT"
+    },
+    {
+        "id": "3110",
+        "description": "SALEMPUR LPG PLANT"
+    },
+    {
+        "id": "3111",
+        "description": "ROORKEE LPG PLANT"
+    },
+    {
+        "id": "3112",
+        "description": "ALLAHABAD LPG PLANT"
+    },
+    {
+        "id": "3113",
+        "description": "JHANSI LPG PLANT"
+    },
+    {
+        "id": "3114",
+        "description": "LONI LPG PLANT"
+    },
+    {
+        "id": "3115",
+        "description": "AJMER LPG PLANT"
+    },
+    {
+        "id": "3116",
+        "description": "BHATINDA LPG PLANT"
+    },
+    {
+        "id": "3117",
+        "description": "Gonda Micro LPG Plant"
+    },
+    {
+        "id": "3118",
+        "description": "Gorakhpur LPG Territory"
+    },
+    {
+        "id": "3119",
+        "description": "JAMMU LPG TERRITORY"
+    },
+    {
+        "id": "3130",
+        "description": "AURIA LPG  DU"
+    },
+    {
+        "id": "3132",
+        "description": "Mathura LPG  DU"
+    },
+    {
+        "id": "3151",
+        "description": "HALDWANI HOSP PLANT - IOC"
+    },
+    {
+        "id": "3152",
+        "description": "GORAKHPUR LPG HOSPITALITY (HPC)"
+    },
+    {
+        "id": "3153",
+        "description": "JAMMU HOSP PLANT - IOC"
+    },
+    {
+        "id": "3156",
+        "description": "JALLANDHAR HOSP PLANT - IOC"
+    },
+    {
+        "id": "3158",
+        "description": "BABATPUR LPG HOSP PLANT( IOC)"
+    },
+    {
+        "id": "3159",
+        "description": "KARNAL LPG HOSP PLANT(IOC)"
+    },
+    {
+        "id": "3162",
+        "description": "FARRUKHABAD LPG HOSP(IOC)"
+    },
+    {
+        "id": "3164",
+        "description": "JHUNJHUNU HOSP PLANT – IOC"
+    },
+    {
+        "id": "3165",
+        "description": "SHAHJAHANPUR LPG HOSP PLANT"
+    },
+    {
+        "id": "3176",
+        "description": "KANODIA PETROLEUM LTD."
+    },
+    {
+        "id": "3177",
+        "description": "KHYBER PETROLEUM & MINERALS LTD"
+    },
+    {
+        "id": "3201",
+        "description": "ULUBERIA LPG PLANT"
+    },
+    {
+        "id": "3202",
+        "description": "RAIGANJ LPG PLANT"
+    },
+    {
+        "id": "3203",
+        "description": "KHURDA LPG PLANT"
+    },
+    {
+        "id": "3204",
+        "description": "DURGAPUR LPG PLANT"
+    },
+    {
+        "id": "3205",
+        "description": "Patna LPG Plant"
+    },
+    {
+        "id": "3206",
+        "description": "Ranchi LPG Territory"
+    },
+    {
+        "id": "3207",
+        "description": "Muzzafarpur LPG Territory"
+    },
+    {
+        "id": "3208",
+        "description": "Sambalpur LPG Territory"
+    },
+    {
+        "id": "3209",
+        "description": "North East LPG Territory"
+    },
+    {
+        "id": "3210",
+        "description": "PURNEA LPG TERRITORY"
+    },
+    {
+        "id": "3230",
+        "description": "HALDIA LPG PLANT"
+    },
+    {
+        "id": "3235",
+        "description": "IOCL Guwahati Refinery DU"
+    },
+    {
+        "id": "3237",
+        "description": "Haldia LPG Import Terminal"
+    },
+    {
+        "id": "3239",
+        "description": "BARAUNI LPG DU"
+    },
+    {
+        "id": "3241",
+        "description": "VIZAG PETROPACK LPG DU"
+    },
+    {
+        "id": "3242",
+        "description": "CHENNAI LPG DU"
+    },
+    {
+        "id": "3243",
+        "description": "DUMAD LPG DU"
+    },
+    {
+        "id": "3251",
+        "description": "NRL HOSP LPG PLANT - NRL"
+    },
+    {
+        "id": "3252",
+        "description": "PATNA HOSPITALITY LPG PLANT - HPC"
+    },
+    {
+        "id": "3255",
+        "description": "JAMSHEPUR LPG HOSPITALITY PLANT"
+    },
+    {
+        "id": "3259",
+        "description": "JHARSUGUDA LPG HOSP PLANT IOC"
+    },
+    {
+        "id": "3260",
+        "description": "HAZARIBAGH - LPG HOSP Plant HPC"
+    },
+    {
+        "id": "3264",
+        "description": "GOPANARI LPG HOSP PLANT-IOC"
+    },
+    {
+        "id": "3276",
+        "description": "SANJAY GAS DISTRIBUTOR PVT LTD"
+    },
+    {
+        "id": "3301",
+        "description": "COIMBATORE LPG PLANT"
+    },
+    {
+        "id": "3302",
+        "description": "TUTICORIN LPG PLANT"
+    },
+    {
+        "id": "3303",
+        "description": "CHENNAI LPG PLANT"
+    },
+    {
+        "id": "3304",
+        "description": "TRIVANDRUM LPG PLANT"
+    },
+    {
+        "id": "3305",
+        "description": "MANGALORE LPG PLANT"
+    },
+    {
+        "id": "3306",
+        "description": "KURNOOL LPG PLANT"
+    },
+    {
+        "id": "3307",
+        "description": "HYDERABAD LPG PLANT"
+    },
+    {
+        "id": "3308",
+        "description": "TANJAVUR LPG PLANT"
+    },
+    {
+        "id": "3309",
+        "description": "DHARWAD LPG PLANT"
+    },
+    {
+        "id": "3310",
+        "description": "KOCHI LPG PLANT"
+    },
+    {
+        "id": "3311",
+        "description": "VIJAYAWADA LPG PLANT"
+    },
+    {
+        "id": "3312",
+        "description": "BANGALORE LPG PLANT"
+    },
+    {
+        "id": "3313",
+        "description": "PALAKKAD LPG PLANT"
+    },
+    {
+        "id": "3314",
+        "description": "Madurai LPG Plant"
+    },
+    {
+        "id": "3330",
+        "description": "CALTEX IMPORT TERMINAL"
+    },
+    {
+        "id": "3331",
+        "description": "\"EIPL, VIZAG\""
+    },
+    {
+        "id": "3341",
+        "description": "VIZAG PETROPACK LPG DU"
+    },
+    {
+        "id": "3342",
+        "description": "CHENNAI LPG DU"
+    },
+    {
+        "id": "3350",
+        "description": "MYSORE HOSP PLANT - HPC"
+    },
+    {
+        "id": "3351",
+        "description": "BANGALORE HOSP PLANT - IOC"
+    },
+    {
+        "id": "3354",
+        "description": "PALGHAT HOSP PLANT - HPC"
+    },
+    {
+        "id": "3363",
+        "description": "SHIMOGA LPG HOSP PLANT(IOC)"
+    },
+    {
+        "id": "3366",
+        "description": "CHINGLEPUT HOSP PLANT-IOC"
+    },
+    {
+        "id": "3368",
+        "description": "VIZAG LPG HOSP PLANT"
+    },
+    {
+        "id": "3376",
+        "description": "SHV BOTTLING PLANT - VIZAG"
+    },
+    {
+        "id": "3377",
+        "description": "MVR GAS PVT. LTD"
+    },
+    {
+        "id": "3378",
+        "description": "SHV BOTTLING PLANT-VIJAYAWADA"
+    },
+    {
+        "id": "3379",
+        "description": "SURYA PETROLEUMS PVT. LTD."
+    },
+    {
+        "id": "3380",
+        "description": "M/S ASIA LPG PVT. LTD."
+    },
+    {
+        "id": "3381",
+        "description": "CALTEX GAS INDIA LTD."
+    },
+    {
+        "id": "3382",
+        "description": "ENN ENN BOTTLING CO."
+    },
+    {
+        "id": "3383",
+        "description": "Caltax gas india Limited"
+    },
+    {
+        "id": "3384",
+        "description": "Taraa  Bottling   Pvt.  Ltd"
+    },
+    {
+        "id": "3385",
+        "description": "TOTAL OIL INDIA PRIVATE LIMTED"
+    },
+    {
+        "id": "3386",
+        "description": "KEERTHI PETROCHEM"
+    },
+    {
+        "id": "3387",
+        "description": "\"CONFIDENCE CYLINDERS & PETROCHEM, MADURAI\""
+    },
+    {
+        "id": "3388",
+        "description": "M/s  Sneha  Petroleum"
+    },
+    {
+        "id": "3389",
+        "description": "C/O Malabar Fuel Corporation"
+    },
+    {
+        "id": "3390",
+        "description": "Kerala State Cooperative Consumers Federation Ltd"
+    },
+    {
+        "id": "3401",
+        "description": "MUMBAI LPG TERRITORY"
+    },
+    {
+        "id": "3402",
+        "description": "URAN LPG PLANT"
+    },
+    {
+        "id": "3403",
+        "description": "SOLAPUR LPG PLANT"
+    },
+    {
+        "id": "3404",
+        "description": "JALGAON LPG PLANT"
+    },
+    {
+        "id": "3405",
+        "description": "BHITONI LPG PLANT"
+    },
+    {
+        "id": "3406",
+        "description": "INDORE LPG PLANT"
+    },
+    {
+        "id": "3407",
+        "description": "AHMEDABAD LPG PLANT"
+    },
+    {
+        "id": "3408",
+        "description": "WAI LPG PLANT"
+    },
+    {
+        "id": "3409",
+        "description": "GOA LPG PLANT"
+    },
+    {
+        "id": "3410",
+        "description": "RAJKOT LPG PLANT"
+    },
+    {
+        "id": "3411",
+        "description": "SURAT LPG PLANT"
+    },
+    {
+        "id": "3412",
+        "description": "NAGPUR LPG PLANT"
+    },
+    {
+        "id": "3413",
+        "description": "NASIK LPG PLANT"
+    },
+    {
+        "id": "3414",
+        "description": "RATNAGIRI LPG IMPORT TERMINAL"
+    },
+    {
+        "id": "3415",
+        "description": "PUNE LPG"
+    },
+    {
+        "id": "3416",
+        "description": "LPG RAIPUR TERRITORY"
+    },
+    {
+        "id": "3417",
+        "description": "BAKANIA LPG PLANT"
+    },
+    {
+        "id": "3419",
+        "description": "JNPT JETTY"
+    },
+    {
+        "id": "3430",
+        "description": "VIJAIPUR LPG D.U."
+    },
+    {
+        "id": "3431",
+        "description": "VAGHODIA LPG D.U."
+    },
+    {
+        "id": "3432",
+        "description": "HAZIRA LPG D.U."
+    },
+    {
+        "id": "3433",
+        "description": "GANDHAR LPG D.U."
+    },
+    {
+        "id": "3434",
+        "description": "Kandla Import Terminal"
+    },
+    {
+        "id": "3435",
+        "description": "Mumbai Import Terminal (Agies)"
+    },
+    {
+        "id": "3437",
+        "description": "DAHEJ DISPATCH UNIT"
+    },
+    {
+        "id": "3439",
+        "description": "Bharuch Propane DU"
+    },
+    {
+        "id": "3441",
+        "description": "Jamnagar DU- Essar Oil"
+    },
+    {
+        "id": "3442",
+        "description": "BINA DESP TERMINAL- LPG"
+    },
+    {
+        "id": "3443",
+        "description": "DUMAD LPG DU"
+    },
+    {
+        "id": "3444",
+        "description": "MUNDRA LPG DU"
+    },
+    {
+        "id": "3450",
+        "description": "CHAKAN HOSP.LPG PLANT - IOC"
+    },
+    {
+        "id": "3451",
+        "description": "MANMAD HOSP.LPG PLANT - IOC"
+    },
+    {
+        "id": "3452",
+        "description": "Raipur Hosp.LPG Plant – HPC"
+    },
+    {
+        "id": "3454",
+        "description": "Bhavnagar Hosp.LPG Plant - IOC"
+    },
+    {
+        "id": "3456",
+        "description": "HAZIRA HOSP.LPG PLANT - IOC"
+    },
+    {
+        "id": "3458",
+        "description": "RAJKOT HOSP.LPG PLANT - IOC"
+    },
+    {
+        "id": "3459",
+        "description": "AURANGABAD LPG HOSP PLANT"
+    },
+    {
+        "id": "3460",
+        "description": "BAKANIA HOSP.LPG PLANT - IOC"
+    },
+    {
+        "id": "3462",
+        "description": "CHAKAN HOSP.LPG PLANT - HPC"
+    },
+    {
+        "id": "3476",
+        "description": "SHV ENERGY PRIVATE LIMITED"
+    },
+    {
+        "id": "3477",
+        "description": "SHV BOTTLING PLANT - BABRA"
+    },
+    {
+        "id": "3478",
+        "description": "JCL INTERNATIONAL"
+    },
+    {
+        "id": "3479",
+        "description": "SHV BOTTLING PLANT - SARIGAM"
+    },
+    {
+        "id": "3480",
+        "description": "PAPUSA GASES PVT. LTD."
+    },
+    {
+        "id": "3483",
+        "description": "SANUJ STEELS PVT LIMITED"
+    },
+    {
+        "id": "3484",
+        "description": "FILLER INDIA BOTTLING PVT LTD"
+    },
+    {
+        "id": "3486",
+        "description": "Sanuj Steel Khopoli"
+    },
+    {
+        "id": "3489",
+        "description": "GASPOINT PETROLEUM INDIA LTD"
+    },
+    {
+        "id": "3492",
+        "description": "CONFIDENCE PETROLEUM INDIA LTD"
+    },
+    {
+        "id": "3494",
+        "description": "SHV MURBAD"
+    },
+    {
+        "id": "3495",
+        "description": "DAHEJ DESPATCH UNIT (LPG)"
+    },
+    {
+        "id": "3498",
+        "description": "Pipavav LPG Import Terminal"
+    },
+    {
+        "id": "3550",
+        "description": "BADDI STAGING DEPOT"
+    },
+    {
+        "id": "3551",
+        "description": "AMBALA LPG STAGING DEPOT"
+    },
+    {
+        "id": "3554",
+        "description": "DATIA LPG STAGING DEPOT"
+    },
+    {
+        "id": "3555",
+        "description": "DELHI LPG STAGING DEPOT"
+    },
+    {
+        "id": "3650",
+        "description": "PURNEA LPG STAGING DEPOT"
+    },
+    {
+        "id": "3651",
+        "description": "KUMARDHUBHI LPG  STAGING DEPOT"
+    },
+    {
+        "id": "3750",
+        "description": "KASARGOD STAGING DEPOT"
+    },
+    {
+        "id": "3752",
+        "description": "TADA STAGING DEPOT"
+    },
+    {
+        "id": "3838",
+        "description": "RMV-AMRAVATI"
+    },
+    {
+        "id": "4111",
+        "description": "DELHI AFS TERMINAL - 1"
+    },
+    {
+        "id": "4112",
+        "description": "DELHI AFS TERMINAL - 2"
+    },
+    {
+        "id": "4121",
+        "description": "JAIPUR AFS"
+    },
+    {
+        "id": "4122",
+        "description": "Chandigarh AFS"
+    },
+    {
+        "id": "4123",
+        "description": "KANGRA AFS"
+    },
+    {
+        "id": "4124",
+        "description": "DEHRADUN AFS"
+    },
+    {
+        "id": "4131",
+        "description": "SIRSA AFS"
+    },
+    {
+        "id": "4132",
+        "description": "SURATGARH AFS"
+    },
+    {
+        "id": "4133",
+        "description": "AMRITSAR AFS"
+    },
+    {
+        "id": "4134",
+        "description": "PHALODI AFS"
+    },
+    {
+        "id": "4135",
+        "description": "LUCKNOW AFS"
+    },
+    {
+        "id": "4136",
+        "description": "VARANASI AFS"
+    },
+    {
+        "id": "4137",
+        "description": "Rohini AFS"
+    },
+    {
+        "id": "4138",
+        "description": "Jammu AFS"
+    },
+    {
+        "id": "4139",
+        "description": "Srinagar AFS"
+    },
+    {
+        "id": "4140",
+        "description": "Hisar AFS"
+    },
+    {
+        "id": "4141",
+        "description": "BKT AFS"
+    },
+    {
+        "id": "4142",
+        "description": "ALIGARH AFS"
+    },
+    {
+        "id": "4143",
+        "description": "AZAMGARH AFS"
+    },
+    {
+        "id": "4144",
+        "description": "JHANSI AFS"
+    },
+    {
+        "id": "4145",
+        "description": "KUSHINAGAR AFS"
+    },
+    {
+        "id": "4211",
+        "description": "KOLKATAA AFS"
+    },
+    {
+        "id": "4212",
+        "description": "GUWAHATI AFS"
+    },
+    {
+        "id": "4213",
+        "description": "Bagdogra AFS"
+    },
+    {
+        "id": "4214",
+        "description": "Agartala AFS"
+    },
+    {
+        "id": "4215",
+        "description": "Patna AFS"
+    },
+    {
+        "id": "4216",
+        "description": "DIBRUGARH AFS"
+    },
+    {
+        "id": "4217",
+        "description": "IMPHAL AFS"
+    },
+    {
+        "id": "4218",
+        "description": "Patna AFS1"
+    },
+    {
+        "id": "4219",
+        "description": "DIMAPUR AFS"
+    },
+    {
+        "id": "4220",
+        "description": "SILCHAR AFS"
+    },
+    {
+        "id": "4221",
+        "description": "BHUBANESHWAR AFS"
+    },
+    {
+        "id": "4223",
+        "description": "KHIRMU AFS"
+    },
+    {
+        "id": "4224",
+        "description": "Panagarh IAF AFS"
+    },
+    {
+        "id": "4225",
+        "description": "RANCHI AFS"
+    },
+    {
+        "id": "4226",
+        "description": "JAYPORE AFS"
+    },
+    {
+        "id": "4227",
+        "description": "SHILLONG AFS"
+    },
+    {
+        "id": "4228",
+        "description": "RUPA HELIPAD ARMY AFS"
+    },
+    {
+        "id": "4229",
+        "description": "BURNPUR AFS"
+    },
+    {
+        "id": "4230",
+        "description": "PAKYONG AFS"
+    },
+    {
+        "id": "4231",
+        "description": "MISSAMARI ARMY AFS"
+    },
+    {
+        "id": "4232",
+        "description": "PURNEA AIRFORCE STATION"
+    },
+    {
+        "id": "4237",
+        "description": "JORHAT  AFS"
+    },
+    {
+        "id": "4311",
+        "description": "BANGALORE AFS (not to be used)"
+    },
+    {
+        "id": "4312",
+        "description": "CHENNAI AFS"
+    },
+    {
+        "id": "4313",
+        "description": "COCHIN AFS"
+    },
+    {
+        "id": "4314",
+        "description": "HYDERABAD AFS (not to be used)"
+    },
+    {
+        "id": "4315",
+        "description": "TRIVANDRUM AFS"
+    },
+    {
+        "id": "4316",
+        "description": "Vijayawada AFS"
+    },
+    {
+        "id": "4317",
+        "description": "New Trichy AFS"
+    },
+    {
+        "id": "4318",
+        "description": "Hubballi AFS"
+    },
+    {
+        "id": "4319",
+        "description": "Belagavi AFS"
+    },
+    {
+        "id": "4320",
+        "description": "Tuticorin AFS"
+    },
+    {
+        "id": "4321",
+        "description": "TIRUPATI AFS"
+    },
+    {
+        "id": "4322",
+        "description": "Coimbatore AFS"
+    },
+    {
+        "id": "4323",
+        "description": "CALICUT AFS"
+    },
+    {
+        "id": "4324",
+        "description": "NEW HYDERABAD INT AFS (SHAMSHABAD)"
+    },
+    {
+        "id": "4325",
+        "description": "NEW BIAL AFS"
+    },
+    {
+        "id": "4326",
+        "description": "Vizag AFS"
+    },
+    {
+        "id": "4327",
+        "description": "Trichy AFS"
+    },
+    {
+        "id": "4328",
+        "description": "Mangalore AFS"
+    },
+    {
+        "id": "4329",
+        "description": "THANJAVUR AFS"
+    },
+    {
+        "id": "4330",
+        "description": "Kannur AFS"
+    },
+    {
+        "id": "4331",
+        "description": "MADURAI AFS"
+    },
+    {
+        "id": "4332",
+        "description": "Salem AFS"
+    },
+    {
+        "id": "4333",
+        "description": "Mysore AFS"
+    },
+    {
+        "id": "4334",
+        "description": "KALABURAGI AFS"
+    },
+    {
+        "id": "4335",
+        "description": "Kadapa AFS"
+    },
+    {
+        "id": "4336",
+        "description": "Rajahmundry AFS"
+    },
+    {
+        "id": "4411",
+        "description": "MUMBAI AFS"
+    },
+    {
+        "id": "4412",
+        "description": "AHMEDABAD AFS"
+    },
+    {
+        "id": "4413",
+        "description": "GOA AFS"
+    },
+    {
+        "id": "4414",
+        "description": "NAGPUR AFS"
+    },
+    {
+        "id": "4415",
+        "description": "MUMBAI FUEL FARM AVN"
+    },
+    {
+        "id": "4416",
+        "description": "Goa Aviation Fuel Farm MOPA"
+    },
+    {
+        "id": "4417",
+        "description": "NASIK AFS"
+    },
+    {
+        "id": "4418",
+        "description": "JABALPUR AFS"
+    },
+    {
+        "id": "4419",
+        "description": "SURAT AFS"
+    },
+    {
+        "id": "4420",
+        "description": "AURANGABAD AFS"
+    },
+    {
+        "id": "4421",
+        "description": "BHAVNAGAR AFS"
+    },
+    {
+        "id": "4422",
+        "description": "RAIPUR AFS"
+    },
+    {
+        "id": "4423",
+        "description": "DIU AFS"
+    },
+    {
+        "id": "4424",
+        "description": "KANDAL AFS"
+    },
+    {
+        "id": "4431",
+        "description": "GWALIOR AFS"
+    },
+    {
+        "id": "4432",
+        "description": "NANDED AFS"
+    },
+    {
+        "id": "4433",
+        "description": "Bhopal AFS"
+    },
+    {
+        "id": "4434",
+        "description": "Pune AFS"
+    },
+    {
+        "id": "4435",
+        "description": "INDORE AFS"
+    },
+    {
+        "id": "4436",
+        "description": "AMBIKAPUR AFS"
+    },
+    {
+        "id": "5117",
+        "description": "Loni Lubs  Plant"
+    },
+    {
+        "id": "5200",
+        "description": "BUDGE BUDGE LUBE PLANT"
+    },
+    {
+        "id": "5211",
+        "description": "SHIBPUR COD"
+    },
+    {
+        "id": "5213",
+        "description": "NUMALIGARH REF.LTD (LUBES)"
+    },
+    {
+        "id": "5300",
+        "description": "TONDIARPET LUBE PLANT"
+    },
+    {
+        "id": "5400",
+        "description": "WADILUBE PLANT"
+    },
+    {
+        "id": "5421",
+        "description": "SEWREE-C LUBES"
+    },
+    {
+        "id": "5427",
+        "description": "LUBES  CENTRAL  WAREHOUSE"
+    },
+    {
+        "id": "6101",
+        "description": "NOIDA-R&D CENTRE"
+    },
+    {
+        "id": "6103",
+        "description": "PIPELINES OPS MATHURA"
+    },
+    {
+        "id": "6104",
+        "description": "PIPELINES OPS PIYALA"
+    },
+    {
+        "id": "6105",
+        "description": "PIPELINES OPS KOTA"
+    },
+    {
+        "id": "6106",
+        "description": "PIPELINES OPS BIJWASAN"
+    },
+    {
+        "id": "6107",
+        "description": "PIPELINES OPS JOBNER"
+    },
+    {
+        "id": "6108",
+        "description": "PIPELINES OPS BHARATPUR"
+    },
+    {
+        "id": "6110",
+        "description": "PIPELINES OPS PANKI"
+    },
+    {
+        "id": "6306",
+        "description": "PIPELINES OPS KOCHI"
+    },
+    {
+        "id": "6307",
+        "description": "PIPELINES OPS IRUGUR"
+    },
+    {
+        "id": "6308",
+        "description": "PIPELINES OPS KARUR"
+    },
+    {
+        "id": "6402",
+        "description": "\"MMPL, REFINERY\""
+    },
+    {
+        "id": "6403",
+        "description": "MMPL - RECEIPT TERMINAL"
+    },
+    {
+        "id": "6411",
+        "description": "PIPELINES OPS MANMAD"
+    },
+    {
+        "id": "6412",
+        "description": "PIPELINES OPS BINA"
+    },
+    {
+        "id": "6413",
+        "description": "PIPELINES OPS MANGLIYA"
+    },
+    {
+        "id": "6414",
+        "description": "PIPELINES OPS MDT MUMBAI"
+    },
+    {
+        "id": "6417",
+        "description": "PIPELINES OPS MUPIPELINES URAN"
+    },
+    {
+        "id": "7000",
+        "description": "BPRL"
+    },
+    {
+        "id": "9100",
+        "description": "IPF CCODE 9100 USERS"
+    },
+    {
+        "id": "ADMIN",
+        "description": "ADMIN GRP for BASIS Team"
+    },
+    {
+        "id": "AUDIT",
+        "description": "AUDIT DEPARTMENT"
+    },
+    {
+        "id": "B1100",
+        "description": "RETAIL NORTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B1100_ES",
+        "description": "NR ESE CELL"
+    },
+    {
+        "id": "B1100_HR",
+        "description": "RETAIL NR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B1200",
+        "description": "RETAIL EASTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B1200_ES",
+        "description": "ER ESE CELL"
+    },
+    {
+        "id": "B1200_HR",
+        "description": "RETAIL ER - HUMAN RESOURCES"
+    },
+    {
+        "id": "B1300",
+        "description": "RETAIL SOUTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B1300_ES",
+        "description": "SR ESE CELL"
+    },
+    {
+        "id": "B1300_HR",
+        "description": "RETAIL SR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B1400",
+        "description": "RETAIL WESTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B1400_ES",
+        "description": "WR ESE CELL"
+    },
+    {
+        "id": "B1400_HR",
+        "description": "RETAIL WR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B1900",
+        "description": "RETAIL HEAD QUARTERS"
+    },
+    {
+        "id": "B1900_BIO",
+        "description": "RETAIL HQ - BIOFULES"
+    },
+    {
+        "id": "B1900_HR",
+        "description": "RETAIL HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "B2500",
+        "description": "NEW BUSINESSES"
+    },
+    {
+        "id": "B2600",
+        "description": "GAS SBU"
+    },
+    {
+        "id": "B2600_ER",
+        "description": "GAS Regional Office East - Kolkata"
+    },
+    {
+        "id": "B2600_HR",
+        "description": "GAS HQ – HUMAN RESOURCES"
+    },
+    {
+        "id": "B2600_NR",
+        "description": "GAS Regional Office North - Noida"
+    },
+    {
+        "id": "B2600_SR",
+        "description": "GAS Regional Office South - Bangalore"
+    },
+    {
+        "id": "B2600_WR",
+        "description": "GAS Regional Office West - Mumbai"
+    },
+    {
+        "id": "B2700",
+        "description": "RENEWABLE ENERGY"
+    },
+    {
+        "id": "B3100",
+        "description": "LPG NORTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B3100_HR",
+        "description": "LPG NR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B3200",
+        "description": "LPG EASTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B3200_HR",
+        "description": "LPG ER - HUMAN RESOURCES"
+    },
+    {
+        "id": "B3300",
+        "description": "LPG SOUTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B3300_HR",
+        "description": "LPG SR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B3400",
+        "description": "LPG WESTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B3400_HR",
+        "description": "LPG WR - HUMAN RESOURCES"
+    },
+    {
+        "id": "B3900",
+        "description": "LPG HEAD QUARTERS"
+    },
+    {
+        "id": "B3900_HR",
+        "description": "LPG HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "B4000",
+        "description": "AVIATION HQ"
+    },
+    {
+        "id": "B4000_HR",
+        "description": "AVIATION HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "B4100",
+        "description": "AVIATION NORTHERN REGIONAL  OFFICE"
+    },
+    {
+        "id": "B4200",
+        "description": "AVIATION EASTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B4300",
+        "description": "AVIATION SOUTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B4400",
+        "description": "AVIATION WESTERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B5100",
+        "description": "LUBES NORTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B5200",
+        "description": "LUBES EASTERN  REGIONAL OFFICE"
+    },
+    {
+        "id": "B5300",
+        "description": "LUBES SOUTHERN REGIONAL OFFICE"
+    },
+    {
+        "id": "B5400",
+        "description": "LUBES WESTERN  REGIONAL OFFICE"
+    },
+    {
+        "id": "B5900",
+        "description": "LUBES HEAD QUARTERS"
+    },
+    {
+        "id": "B5900_HR",
+        "description": "LUBES HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "B5900_RD",
+        "description": "LUBES- HQ R&D"
+    },
+    {
+        "id": "B5900_TS",
+        "description": "LUBES - HQ TECHNICAL SERVUCES"
+    },
+    {
+        "id": "B7100_FI",
+        "description": "S/S FINANCE NORTHERN REGION"
+    },
+    {
+        "id": "B7100_IS",
+        "description": "IS - NORTHERN REGION"
+    },
+    {
+        "id": "B7100HAD",
+        "description": "HRS(N) – Admin Services"
+    },
+    {
+        "id": "B7100HBA",
+        "description": "NR HR BENEFIT ADMIN"
+    },
+    {
+        "id": "B7100HER",
+        "description": "HRS(N) – Employee Relations"
+    },
+    {
+        "id": "B7100HRS",
+        "description": "NR HR SERVICES"
+    },
+    {
+        "id": "B7100QCC",
+        "description": "Quality Control Cell NR"
+    },
+    {
+        "id": "B7200_FI",
+        "description": "S/S FINANCE EASTERN REGION"
+    },
+    {
+        "id": "B7200_IS",
+        "description": "IS - EASTERN REGION"
+    },
+    {
+        "id": "B7200HAD",
+        "description": "HRS(E) – Admin Services"
+    },
+    {
+        "id": "B7200HBA",
+        "description": "ER HR BENEFIT ADMIN"
+    },
+    {
+        "id": "B7200HER",
+        "description": "HRS(E) – Employee Relations"
+    },
+    {
+        "id": "B7200HRS",
+        "description": "ER HR SERVICES"
+    },
+    {
+        "id": "B7200QCC",
+        "description": "Quality Control Cell ER"
+    },
+    {
+        "id": "B7300_FI",
+        "description": "S/S FINANCE SOUTHERN REGION"
+    },
+    {
+        "id": "B7300_IS",
+        "description": "IS - SOUTHERN REGION"
+    },
+    {
+        "id": "B7300HAD",
+        "description": "HRS(S) – Admin Services"
+    },
+    {
+        "id": "B7300HBA",
+        "description": "SR HR BENEFIT ADMIN"
+    },
+    {
+        "id": "B7300HER",
+        "description": "HRS(S) – Employee Relations"
+    },
+    {
+        "id": "B7300HRS",
+        "description": "SR HR SERVICES"
+    },
+    {
+        "id": "B7300QCC",
+        "description": "Quality Control Cell SR"
+    },
+    {
+        "id": "B7400_FI",
+        "description": "S/S FINANCE WESTERN REGION"
+    },
+    {
+        "id": "B7400_IS",
+        "description": "IS - WESTERN REGION"
+    },
+    {
+        "id": "B7400HAD",
+        "description": "HRS(W) – Admin Services"
+    },
+    {
+        "id": "B7400HBA",
+        "description": "WR HR BENEFIT ADMIN"
+    },
+    {
+        "id": "B7400HER",
+        "description": "HRS(W) – Employee Relations"
+    },
+    {
+        "id": "B7400HRS",
+        "description": "WR HR SERVICES"
+    },
+    {
+        "id": "B7400QCC",
+        "description": "Quality Control Cell WR"
+    },
+    {
+        "id": "B7401BLC",
+        "description": "BP LEARNING CENTRE"
+    },
+    {
+        "id": "B7900_FI",
+        "description": "S/S FINANCE HQ"
+    },
+    {
+        "id": "B7900_IS",
+        "description": "IS - HEAD QUARTER"
+    },
+    {
+        "id": "B7900ADMN",
+        "description": "Corporate HRS Admin Facilities"
+    },
+    {
+        "id": "B7900CBA",
+        "description": "CENTRALIZED BENEFIT ADMIN HR"
+    },
+    {
+        "id": "B7900HRD",
+        "description": "HR DEVELOPMENT"
+    },
+    {
+        "id": "B7900HRS",
+        "description": "HQ HR SERVICES"
+    },
+    {
+        "id": "B7900QCC",
+        "description": "Quality Control Cell HQ"
+    },
+    {
+        "id": "B8100_EP",
+        "description": "E&P - NORTHERN REGION"
+    },
+    {
+        "id": "B8200_EP",
+        "description": "E&P - EASTERN REGION"
+    },
+    {
+        "id": "B8300_EP",
+        "description": "E&P - SOUTHERN REGION"
+    },
+    {
+        "id": "B8400_EP",
+        "description": "E&P - WESTERN REGION"
+    },
+    {
+        "id": "B8900_EP",
+        "description": "E&P - HEAD QUARTERS"
+    },
+    {
+        "id": "B8900_EP_HR",
+        "description": "E&P HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "BR_BDT",
+        "description": "BR - BINA DESPATCH TERMINAL"
+    },
+    {
+        "id": "BR_COT",
+        "description": "BR - CRUDE OIL TERMINAL"
+    },
+    {
+        "id": "BR_FIN",
+        "description": "BR - FINANCE"
+    },
+    {
+        "id": "BR_FS",
+        "description": "BR - FIRE & SAFETY"
+    },
+    {
+        "id": "BR_HR",
+        "description": "BR - HUMAN RESOURCES"
+    },
+    {
+        "id": "BR_HRD",
+        "description": "BR - HUMAN RESOURCE DEVELOPMENT"
+    },
+    {
+        "id": "BR_INS",
+        "description": "BR - INSPECTION"
+    },
+    {
+        "id": "BR_IS",
+        "description": "BR - INFORMATION SYSTEMS"
+    },
+    {
+        "id": "BR_LEG",
+        "description": "BR - LEGAL"
+    },
+    {
+        "id": "BR_MNT",
+        "description": "BR - MAINTENANCE"
+    },
+    {
+        "id": "BR_OPS",
+        "description": "BR - OPERATIONS"
+    },
+    {
+        "id": "BR_PCS",
+        "description": "BR - PROCUREMENT & CONTRACT SERVICES"
+    },
+    {
+        "id": "BR_PROJ",
+        "description": "BR - PROJECTS"
+    },
+    {
+        "id": "BR_PU",
+        "description": "BR - POWER & UTILITIES"
+    },
+    {
+        "id": "BR_QA",
+        "description": "BR - QUALITY ASSURANCE"
+    },
+    {
+        "id": "BR_TSD",
+        "description": "BR - TECHNICAL SERVICES"
+    },
+    {
+        "id": "CMRO",
+        "description": "Central Maintenance  & Reliability Organization"
+    },
+    {
+        "id": "CO_BOARD",
+        "description": "BPCL BOARD"
+    },
+    {
+        "id": "CO_BPEC",
+        "description": "BUSINESS PROCESS EXCELLENCE CENTRE"
+    },
+    {
+        "id": "CO_BPECGST",
+        "description": "BPEC GST"
+    },
+    {
+        "id": "CO_BPECPAY",
+        "description": "BPEC PAYROLL"
+    },
+    {
+        "id": "CO_BRAND",
+        "description": "CO - BRAND HQ"
+    },
+    {
+        "id": "CO_BRAND_PR",
+        "description": "CO - BRAND DEVPLOPMENT & PUBLIC RELATIONS"
+    },
+    {
+        "id": "CO_BRND_PR",
+        "description": "CO - BRAND DEVPLOPMENT & PUBLIC RELATIONS"
+    },
+    {
+        "id": "CO_COAFF",
+        "description": "CO - CORPORATE AFFAIRS"
+    },
+    {
+        "id": "CO_COORD",
+        "description": "CO - COORDINATION"
+    },
+    {
+        "id": "CO_DIROF",
+        "description": "DIRECTORS OFFICE"
+    },
+    {
+        "id": "CO_ESE",
+        "description": "CO ESE CELL"
+    },
+    {
+        "id": "CO_HSSE",
+        "description": "\"HEALTH, SAFETY, SECURITY & ENVIRONMENT\""
+    },
+    {
+        "id": "CO_INT",
+        "description": "CO : International Trade"
+    },
+    {
+        "id": "CO_MGMT",
+        "description": "CO-Management Accounts"
+    },
+    {
+        "id": "CO_MKTG",
+        "description": "CO - CORPORATE MARKETING"
+    },
+    {
+        "id": "CO_NBI",
+        "description": "NEW BUSINESS INITIATIVES"
+    },
+    {
+        "id": "CO_PLNG",
+        "description": "CORPORATE PLANNING"
+    },
+    {
+        "id": "CO_PR",
+        "description": "CO - PUBLIC RELATIONS"
+    },
+    {
+        "id": "CO_SCO",
+        "description": "SUPPLY CHAIN OPTIMIZATION"
+    },
+    {
+        "id": "CO_SPDTY",
+        "description": "CO OFFICER ON SPECIAL DUTIES"
+    },
+    {
+        "id": "CO_SPRTS",
+        "description": "SPORTS"
+    },
+    {
+        "id": "CO_SSC",
+        "description": "SHARED SERVICES CENTER"
+    },
+    {
+        "id": "CO_STRGY",
+        "description": "CORPORATE STRATEGY"
+    },
+    {
+        "id": "CO_TAXN",
+        "description": "CO - TAXATION"
+    },
+    {
+        "id": "CO_TRSY",
+        "description": "CO - TREASURY"
+    },
+    {
+        "id": "CRPO",
+        "description": "Central Refineries Project Organization"
+    },
+    {
+        "id": "DELETED",
+        "description": "DELETED USER"
+    },
+    {
+        "id": "DEPUTE",
+        "description": "On Deputation"
+    },
+    {
+        "id": "ERPCC",
+        "description": "ERP CC"
+    },
+    {
+        "id": "GASA",
+        "description": "Government Statutory Auditors"
+    },
+    {
+        "id": "KR_EC",
+        "description": "KOCHI REFINERY - ENGGINEERING & CONSTRUCTION"
+    },
+    {
+        "id": "KR_FIN",
+        "description": "KOCHI REFINERY - FINANCE"
+    },
+    {
+        "id": "KR_HR",
+        "description": "KR - HUMAN RESOURCES"
+    },
+    {
+        "id": "KR_HR_HAD",
+        "description": "KR - ADMIN"
+    },
+    {
+        "id": "KR_HR_HBA",
+        "description": "KR - BENEFIT ADMINISTRATION"
+    },
+    {
+        "id": "KR_HR_HER",
+        "description": "KR - EMPLOYEE RELATIONS"
+    },
+    {
+        "id": "KR_HR_HESE",
+        "description": "KR - ESE"
+    },
+    {
+        "id": "KR_HR_HEST",
+        "description": "KR - ESTATES"
+    },
+    {
+        "id": "KR_HR_HRD",
+        "description": "KR - HUMAN RESOURCE DEVELOPMENT"
+    },
+    {
+        "id": "KR_HR_L&D",
+        "description": "KR - LEARNING & DEVELOPMENT"
+    },
+    {
+        "id": "KR_INS",
+        "description": "KOCHI REFINERY - INSPECTION"
+    },
+    {
+        "id": "KR_IS",
+        "description": "KOCHI REFINERY - IS"
+    },
+    {
+        "id": "KR_LEG",
+        "description": "KOCHI REFINERY - LEGAL"
+    },
+    {
+        "id": "KR_MFG",
+        "description": "KOCHI REFINERY - MANUFACTURING"
+    },
+    {
+        "id": "KR_MNT",
+        "description": "KOCHI REFINERY - MAINTENANCE"
+    },
+    {
+        "id": "KR_OMS",
+        "description": "KOCHI REFINERY - OIL MVTS & STOCK"
+    },
+    {
+        "id": "KR_PCS",
+        "description": "KOCHI REFINERY - PROCUREMENT & CONTRACT SERVICES"
+    },
+    {
+        "id": "KR_PROJ",
+        "description": "KOCHI REFINERY - PROJECTS"
+    },
+    {
+        "id": "KR_PU",
+        "description": "KOCHI REFINERY - POWER & UTILITIES"
+    },
+    {
+        "id": "KR_QC",
+        "description": "KOCHI REFINERY - QUALITY CONTROL"
+    },
+    {
+        "id": "KR_RD",
+        "description": "KOCHI REFINERY - R&D"
+    },
+    {
+        "id": "KR_SEC",
+        "description": "KOCHI REFINERY - SECURITY"
+    },
+    {
+        "id": "KR_TSD",
+        "description": "KOCHI REFINERY - TECHNICAL SERVICES"
+    },
+    {
+        "id": "KR_VIG",
+        "description": "KOCHI REFINERY - VIGILANCE"
+    },
+    {
+        "id": "LEGAL_ER",
+        "description": "LEGAL - EASTERN REGION"
+    },
+    {
+        "id": "LEGAL_HQ",
+        "description": "LEGAL - HEAD QUARTER"
+    },
+    {
+        "id": "LEGAL_NR",
+        "description": "LEGAL - NORTHERN REGION"
+    },
+    {
+        "id": "LEGAL_SR",
+        "description": "LEGAL - SOUTHERN REGION"
+    },
+    {
+        "id": "LEGAL_WR",
+        "description": "LEGAL - WESTERN REGION"
+    },
+    {
+        "id": "MKTG_CPO",
+        "description": "MARKETING - CENTRAL PROCUREMENT ORGANIZATION"
+    },
+    {
+        "id": "MR_ CPO",
+        "description": "MR - CENTRAL PROCUREMENT ORGANIZATION"
+    },
+    {
+        "id": "MR_BIOFUEL",
+        "description": "MR - BIOFUEL"
+    },
+    {
+        "id": "MR_CCR",
+        "description": "MR - CONTINUOUS CATALYSTIC REGENERATION REFORMER"
+    },
+    {
+        "id": "MR_CPO",
+        "description": "MR - CENTRAL PROCUREMENT ORGANIZATION"
+    },
+    {
+        "id": "MR_CSS",
+        "description": "MR - COMPUTER SYSTEMS & SERVICES"
+    },
+    {
+        "id": "MR_EAS",
+        "description": "MR - EA&S"
+    },
+    {
+        "id": "MR_EC",
+        "description": "MR - E&C"
+    },
+    {
+        "id": "MR_FIN",
+        "description": "MR - FINANCE"
+    },
+    {
+        "id": "MR_FS",
+        "description": "MR - FIRE & SAFETY"
+    },
+    {
+        "id": "MR_JVR",
+        "description": "MR - JOIN VENTURE"
+    },
+    {
+        "id": "MR_LPG",
+        "description": "MR - LPG PLANT"
+    },
+    {
+        "id": "MR_MNT",
+        "description": "MR - MAINTENANCE"
+    },
+    {
+        "id": "MR_MOT",
+        "description": "MR - MARINE OIL TERMINAL"
+    },
+    {
+        "id": "MR_MPL",
+        "description": "MR - MANMAD PIPE LINE"
+    },
+    {
+        "id": "MR_MPROJ",
+        "description": "MR - MAJOR PROJECTS"
+    },
+    {
+        "id": "MR_OPS",
+        "description": "MR - OPERATIONS"
+    },
+    {
+        "id": "MR_PA",
+        "description": "MR - PERSONNEL & ADMINISTRATION"
+    },
+    {
+        "id": "MR_PA_HAD",
+        "description": "MR - ADMIN"
+    },
+    {
+        "id": "MR_PA_HBA",
+        "description": "MR - BENEFIT ADMINISTRATION"
+    },
+    {
+        "id": "MR_PA_HER",
+        "description": "MR - EMPLOYEE RELATIONS"
+    },
+    {
+        "id": "MR_PA_HESE",
+        "description": "MR - ESE"
+    },
+    {
+        "id": "MR_PA_HEST",
+        "description": "MR - ESTATES"
+    },
+    {
+        "id": "MR_PA_HRD",
+        "description": "MR - HUMAN RESOURCE DEVELOPMENT"
+    },
+    {
+        "id": "MR_PA_L&D",
+        "description": "MR - LEARNING & DEVELOPMENT"
+    },
+    {
+        "id": "MR_PCS",
+        "description": "MR - PROC & CONTRACT SERVICES"
+    },
+    {
+        "id": "MR_PLPRJ",
+        "description": "PIPELINES - PROJECTS"
+    },
+    {
+        "id": "MR_RMP",
+        "description": "MR - MODERNISATION PROJECT"
+    },
+    {
+        "id": "MR_TDU",
+        "description": "MR - TROMBAY DISPATCH UNIT"
+    },
+    {
+        "id": "MR_TEC",
+        "description": "MR - TECHNOLOGY"
+    },
+    {
+        "id": "MR_VBPL",
+        "description": "MR - VADINAR BINA PIPE LINE"
+    },
+    {
+        "id": "MR_WCR",
+        "description": "MR-WEST COAST REFINERY"
+    },
+    {
+        "id": "PIPE_FIN",
+        "description": "PIPELINES FIN HQ"
+    },
+    {
+        "id": "PIPE_HQ",
+        "description": "PIPELINES HQ"
+    },
+    {
+        "id": "PIPE_HR",
+        "description": "PIPELINES HR HQ"
+    },
+    {
+        "id": "PIPE_OPS_C",
+        "description": "PIPELINES OPERATIONS CENTRAL"
+    },
+    {
+        "id": "PIPE_OPS_N",
+        "description": "PIPELINES OPERATIONS NORTH"
+    },
+    {
+        "id": "PIPE_OPS_S",
+        "description": "PIPELINES OPERATIONS SOUTH"
+    },
+    {
+        "id": "PIPE_OPS_W",
+        "description": "PIPELINES OPERATIONS WEST"
+    },
+    {
+        "id": "PIPE_OPSHQ",
+        "description": "PIPELINES OPS HQ"
+    },
+    {
+        "id": "PIPE_PRJ_N",
+        "description": "PIPELINES PROJECTS - NORTH"
+    },
+    {
+        "id": "PIPE_PRJ_S",
+        "description": "PIPELINES PROJECTS - SOUTH"
+    },
+    {
+        "id": "PIPE_PRJ_W",
+        "description": "PIPELINES PROJECTS - WEST"
+    },
+    {
+        "id": "PIPE_VB",
+        "description": "VBPIPELINES"
+    },
+    {
+        "id": "PIPEPRJ_HQ",
+        "description": "PIPELINES PROJECTS HQ"
+    },
+    {
+        "id": "R1123",
+        "description": "\"STATE OFFICE - CHANDIGARH (PUNJAB, HP & JK)\""
+    },
+    {
+        "id": "R1124",
+        "description": "STATE OFFICE - JAIPUR (RAJASTHAN)"
+    },
+    {
+        "id": "R1125",
+        "description": "STATE OFFICE - LUCKNOW (UTTAR PRADESH)"
+    },
+    {
+        "id": "R1143",
+        "description": "\"STATE OFFICE - DELHI (NOIDA), HARYANA & UTTRAKHAND\""
+    },
+    {
+        "id": "R1212",
+        "description": "STATE OFFICE -  GUWHATI (NORTH EAST)"
+    },
+    {
+        "id": "R1213",
+        "description": "STATE OFFICE - PATNA (BIHAR)"
+    },
+    {
+        "id": "R1222",
+        "description": "STATE OFFICE - BHUBANESWAR (ODISHA & JHARKHAND)"
+    },
+    {
+        "id": "R1226",
+        "description": "STATE OFFICE - KOLKATTA (WEST BENGAL & SIKKIM)"
+    },
+    {
+        "id": "R1311",
+        "description": "STATE OFFICE - HYDERABAD (AP & TELANGANA)"
+    },
+    {
+        "id": "R1317",
+        "description": "STATE OFFICE – KOCHI (KERALA)"
+    },
+    {
+        "id": "R1319",
+        "description": "STATE OFFICE - CHENNAI (TAMIL NADU & PUNDCHERRI)"
+    },
+    {
+        "id": "R1321",
+        "description": "STATE OFFICE - BANGALORE (KARNATAKA)"
+    },
+    {
+        "id": "R1415",
+        "description": "STATE OFFICE - AHMEDABAD (GUJARAT)"
+    },
+    {
+        "id": "R1418",
+        "description": "STATE OFFICE - BHOPAL (MP & CG)"
+    },
+    {
+        "id": "R1420",
+        "description": "STATE OFFICE - MUMBAI (MAHARASHTRA & GOA)"
+    },
+    {
+        "id": "R3123",
+        "description": "State Office - Punjab & J&K"
+    },
+    {
+        "id": "R3124",
+        "description": "State Office - Rajasthan"
+    },
+    {
+        "id": "R3125",
+        "description": "State Office - UP"
+    },
+    {
+        "id": "R3143",
+        "description": "\"State Office - Delhi, Hrayana & UK\""
+    },
+    {
+        "id": "R3212",
+        "description": "State Office - NE"
+    },
+    {
+        "id": "R3213",
+        "description": "State Office - Bihar & Jharkhand"
+    },
+    {
+        "id": "R3222",
+        "description": "State Office - Orissa"
+    },
+    {
+        "id": "R3226",
+        "description": "State Office - WB"
+    },
+    {
+        "id": "R3311",
+        "description": "State Office - AP & Telangana"
+    },
+    {
+        "id": "R3317",
+        "description": "State Office - Kerala"
+    },
+    {
+        "id": "R3319",
+        "description": "State Office -TN"
+    },
+    {
+        "id": "R3321",
+        "description": "State Office - Karnataka"
+    },
+    {
+        "id": "R3415",
+        "description": "State Office - Gujarat"
+    },
+    {
+        "id": "R3418",
+        "description": "State Office - MP & Chhattisgarh"
+    },
+    {
+        "id": "R3420",
+        "description": "State Office - Maharashtra"
+    },
+    {
+        "id": "REF_INT",
+        "description": "Refinery : International Trade"
+    },
+    {
+        "id": "S1100",
+        "description": "Mathura Retail T'ry"
+    },
+    {
+        "id": "S1101",
+        "description": "Delhi Retail T'ry"
+    },
+    {
+        "id": "S1102",
+        "description": "Meerut Retail T'ry"
+    },
+    {
+        "id": "S1106",
+        "description": "Bareilly Retail T'ry"
+    },
+    {
+        "id": "S1107",
+        "description": "Lucknow Retail Territory"
+    },
+    {
+        "id": "S1110",
+        "description": "Jammu Retail T'ry"
+    },
+    {
+        "id": "S1114",
+        "description": "Kota Retail T'ry"
+    },
+    {
+        "id": "S1115",
+        "description": "Udaipur Retail T'ry"
+    },
+    {
+        "id": "S1116",
+        "description": "Gorakhpur Retail Try"
+    },
+    {
+        "id": "S1119",
+        "description": "Baitalpur Retail Try"
+    },
+    {
+        "id": "S1120",
+        "description": "Bhatinda Retail T'ry"
+    },
+    {
+        "id": "S1121",
+        "description": "Sangrur Retail T'ry"
+    },
+    {
+        "id": "S1126",
+        "description": "Kanpur Retail T'ry"
+    },
+    {
+        "id": "S1128",
+        "description": "Hissar Retail T'ry"
+    },
+    {
+        "id": "S1129",
+        "description": "Ambala Retail Tr"
+    },
+    {
+        "id": "S1138",
+        "description": "Jalandhar Ret T'ry"
+    },
+    {
+        "id": "S1141",
+        "description": "Rewari Retail T'ry"
+    },
+    {
+        "id": "S1143",
+        "description": "Jaipur Retail T'ry"
+    },
+    {
+        "id": "S1144",
+        "description": "Jodhpur Retail T'ry"
+    },
+    {
+        "id": "S1145",
+        "description": "Varanasi Retail T'r"
+    },
+    {
+        "id": "S1146",
+        "description": "Dehradun Retail Territory"
+    },
+    {
+        "id": "S1148",
+        "description": "Prayagraj Retail Territory"
+    },
+    {
+        "id": "S1149",
+        "description": "Gonda Retail Territory"
+    },
+    {
+        "id": "S1200",
+        "description": "Calcutta Retail T'ry"
+    },
+    {
+        "id": "S1203",
+        "description": "Barauni Retail T'ry"
+    },
+    {
+        "id": "S1205",
+        "description": "Ranchi Retail T'ry"
+    },
+    {
+        "id": "S1206",
+        "description": "Bhubaneswar Ret T'ry"
+    },
+    {
+        "id": "S1207",
+        "description": "Jamshedpur Ret Try"
+    },
+    {
+        "id": "S1208",
+        "description": "Sambalpur Retail Try"
+    },
+    {
+        "id": "S1214",
+        "description": "Muzzafarpur Retail Territory"
+    },
+    {
+        "id": "S1215",
+        "description": "Shillong Retail Territory"
+    },
+    {
+        "id": "S1217",
+        "description": "Guwahati Retail Territory"
+    },
+    {
+        "id": "S1221",
+        "description": "Durgapur RetailT'ry"
+    },
+    {
+        "id": "S1226",
+        "description": "Patna Retail T'ry"
+    },
+    {
+        "id": "S1233",
+        "description": "Siliguri Retail T'ry"
+    },
+    {
+        "id": "S1265",
+        "description": "Bokaro Retail Territory"
+    },
+    {
+        "id": "S1300",
+        "description": "Ernakulam Retail Try"
+    },
+    {
+        "id": "S1303",
+        "description": "Vizag Retail T'ry"
+    },
+    {
+        "id": "S1306",
+        "description": "Chennai Retail T'ry"
+    },
+    {
+        "id": "S1309",
+        "description": "Mysore Retail Territory"
+    },
+    {
+        "id": "S1310",
+        "description": "Bangalore Retail Try"
+    },
+    {
+        "id": "S1312",
+        "description": "Belgaum Retail T'ry"
+    },
+    {
+        "id": "S1313",
+        "description": "Cannanore Retail Try"
+    },
+    {
+        "id": "S1315",
+        "description": "Tirunelveli RetailTr"
+    },
+    {
+        "id": "S1319",
+        "description": "Trichy Retail Territory"
+    },
+    {
+        "id": "S1320",
+        "description": "NELLORE RETAIL T'RY"
+    },
+    {
+        "id": "S1323",
+        "description": "NIZAMABAD RETAIL TERRITORY"
+    },
+    {
+        "id": "S1325",
+        "description": "WARANGAL RETAIL T'RY"
+    },
+    {
+        "id": "S1326",
+        "description": "Hyderabad Retail Try"
+    },
+    {
+        "id": "S1329",
+        "description": "Vijayawada Ret T'ry"
+    },
+    {
+        "id": "S1332",
+        "description": "Mangalore Ret T'ry"
+    },
+    {
+        "id": "S1349",
+        "description": "Karur Retail Tr"
+    },
+    {
+        "id": "S1350",
+        "description": "Coimbatore Retail Tr"
+    },
+    {
+        "id": "S1351",
+        "description": "MADURAI RETAIL T'RY"
+    },
+    {
+        "id": "S1353",
+        "description": "GULBARGA RETAIL TERRITORY"
+    },
+    {
+        "id": "S1401",
+        "description": "Manmad Retail T'ry"
+    },
+    {
+        "id": "S1403",
+        "description": "Mumbai Retail T'ry"
+    },
+    {
+        "id": "S1404",
+        "description": "Thane Terr'y"
+    },
+    {
+        "id": "S1409",
+        "description": "Surat Retail Try"
+    },
+    {
+        "id": "S1410",
+        "description": "Raipur Retail T'ry"
+    },
+    {
+        "id": "S1411",
+        "description": "Bhopal Retail T'ry"
+    },
+    {
+        "id": "S1413",
+        "description": "Gwalior Retail Territory"
+    },
+    {
+        "id": "S1414",
+        "description": "Indore Retail T'ry"
+    },
+    {
+        "id": "S1417",
+        "description": "Jabalpur Retail T'ry"
+    },
+    {
+        "id": "S1419",
+        "description": "AHMEDNAGAR RETAIL TERRITORY"
+    },
+    {
+        "id": "S1422",
+        "description": "Miraj Retail T'ry"
+    },
+    {
+        "id": "S1423",
+        "description": "Nagpur Retail Try"
+    },
+    {
+        "id": "S1425",
+        "description": "Ahmedabad Retail Territory"
+    },
+    {
+        "id": "S1426",
+        "description": "Pune Retail T'ry"
+    },
+    {
+        "id": "S1428",
+        "description": "Solapur Retail Territory"
+    },
+    {
+        "id": "S1429",
+        "description": "Goa Retail T'ry"
+    },
+    {
+        "id": "S1430",
+        "description": "Rajkot Retail Terr'y"
+    },
+    {
+        "id": "S1431",
+        "description": "Bilaspur Retail Territory"
+    },
+    {
+        "id": "S1449",
+        "description": "Vadodara Retail Territory"
+    },
+    {
+        "id": "S1450",
+        "description": "Akola Retail Territory"
+    },
+    {
+        "id": "S1451",
+        "description": "Jalgaon Retail Territory"
+    },
+    {
+        "id": "S2000",
+        "description": "I& C HEAD QUARTERS"
+    },
+    {
+        "id": "S2000_HR",
+        "description": "I&C HQ - HUMAN RESOURCES"
+    },
+    {
+        "id": "S2101",
+        "description": "I&C DELHI TERRITORY"
+    },
+    {
+        "id": "S2102",
+        "description": "I&C LUCKNOW TERRITOR"
+    },
+    {
+        "id": "S2103",
+        "description": "I&C JAIPUR TERRITORY"
+    },
+    {
+        "id": "S2104",
+        "description": "CHANDIGARH I&C TERRITORY"
+    },
+    {
+        "id": "S2201",
+        "description": "I&C CALCUTTA TERRITO"
+    },
+    {
+        "id": "S2202",
+        "description": "I&C BHUBANESHWAR TER"
+    },
+    {
+        "id": "S2301",
+        "description": "I&C CHENNAI TERRITOR"
+    },
+    {
+        "id": "S2302",
+        "description": "I&C BANGALORE TERRIT"
+    },
+    {
+        "id": "S2303",
+        "description": "I&C COCHIN TERRITORY"
+    },
+    {
+        "id": "S2304",
+        "description": "I&C SECUNDERABAD TER"
+    },
+    {
+        "id": "S2305",
+        "description": "I&C COIMBATORE TERRI"
+    },
+    {
+        "id": "S2401",
+        "description": "I&C MUMBAI TERRITORY"
+    },
+    {
+        "id": "S2402",
+        "description": "I&C PUNE TERRITORY"
+    },
+    {
+        "id": "S2403",
+        "description": "I&C BHOPAL TERRITORY"
+    },
+    {
+        "id": "S2404",
+        "description": "I&C AHMEDABAD TERRIT"
+    },
+    {
+        "id": "S2405",
+        "description": "I&C Gandhinagar Gas Territory"
+    },
+    {
+        "id": "S2406",
+        "description": "I&C RAIPUR TERRITORY"
+    },
+    {
+        "id": "S5110",
+        "description": "LONI TERRITORY"
+    },
+    {
+        "id": "S5111",
+        "description": "ALLAHABAD TERRITORY"
+    },
+    {
+        "id": "S5112",
+        "description": "CHANDIGARH TERRITORY"
+    },
+    {
+        "id": "S5113",
+        "description": "DELHI TERRITORY (R)"
+    },
+    {
+        "id": "S5114",
+        "description": "JAIPUR TERRITORY"
+    },
+    {
+        "id": "S5115",
+        "description": "LUCKNOW TERRITORY"
+    },
+    {
+        "id": "S5116",
+        "description": "Delhi Lubes Direct Territory"
+    },
+    {
+        "id": "S5117",
+        "description": "Udaipur Territory"
+    },
+    {
+        "id": "S5118",
+        "description": "Jalandhar  Territory"
+    },
+    {
+        "id": "S5210",
+        "description": "KOLKATA TERRITORY(R)"
+    },
+    {
+        "id": "S5211",
+        "description": "PATNA TERRITORY"
+    },
+    {
+        "id": "S5212",
+        "description": "RANCHI TERRITORY (R)"
+    },
+    {
+        "id": "S5213",
+        "description": "BHUBANESWAR TERR'Y"
+    },
+    {
+        "id": "S5214",
+        "description": "GUWAHATI TERRITORY"
+    },
+    {
+        "id": "S5215",
+        "description": "DHANBAD TERRITOR-IND"
+    },
+    {
+        "id": "S5216",
+        "description": "KOLKATA TERRITORY(D)"
+    },
+    {
+        "id": "S5217",
+        "description": "NEPAL LUB TERRITORY"
+    },
+    {
+        "id": "S5310",
+        "description": "CHENNAI LUB TERY (R)"
+    },
+    {
+        "id": "S5311",
+        "description": "COIMBATORE TERRITORY"
+    },
+    {
+        "id": "S5312",
+        "description": "SEC'BAD LUB TERY (R)"
+    },
+    {
+        "id": "S5313",
+        "description": "BANGALORE TERRITORY"
+    },
+    {
+        "id": "S5314",
+        "description": "COCHIN TERRITORY"
+    },
+    {
+        "id": "S5315",
+        "description": "CHENNAI LUB TERR (D)"
+    },
+    {
+        "id": "S5316",
+        "description": "VIZAG LUBES TERRITORY"
+    },
+    {
+        "id": "S5317",
+        "description": "Srilanka Lub territory"
+    },
+    {
+        "id": "S5318",
+        "description": "BELGAUM LUBES TERRITORY"
+    },
+    {
+        "id": "S5319",
+        "description": "MADURAI LUBES TERRITORY"
+    },
+    {
+        "id": "S5320",
+        "description": "MANGALORE LUBES TERRITORY"
+    },
+    {
+        "id": "S5321",
+        "description": "NELLORE LUBES TERRITORY"
+    },
+    {
+        "id": "S5322",
+        "description": "VIJAYAWADA LUBES TERRITORY"
+    },
+    {
+        "id": "S5410",
+        "description": "MUMBAI(RETAIL)TERR'Y"
+    },
+    {
+        "id": "S5411",
+        "description": "MUMBAI(DIRECT)TERR'Y"
+    },
+    {
+        "id": "S5412",
+        "description": "GOA TERRITORY"
+    },
+    {
+        "id": "S5413",
+        "description": "NAGPUR TERRITORY"
+    },
+    {
+        "id": "S5414",
+        "description": "RAIPUR TERRITORY"
+    },
+    {
+        "id": "S5415",
+        "description": "PUNE LUB TR (RETAIL)"
+    },
+    {
+        "id": "S5416",
+        "description": "AHMEDABAD TERRITORY"
+    },
+    {
+        "id": "S5417",
+        "description": "RAJKOT TERRITORY"
+    },
+    {
+        "id": "S5418",
+        "description": "BHOPAL TERRITORY"
+    },
+    {
+        "id": "S5419",
+        "description": "WR Lubes   DIRECT"
+    },
+    {
+        "id": "S5420",
+        "description": "Aurangabad Lubes Territory"
+    },
+    {
+        "id": "S5421",
+        "description": "NASIK LUB TERRITORY"
+    },
+    {
+        "id": "S5422",
+        "description": "Jabalpur Lubes Territory"
+    },
+    {
+        "id": "S5423",
+        "description": "KOYALI LUB TERR'Y"
+    },
+    {
+        "id": "S5424",
+        "description": "Base Oil Lubes Territory-Mumbai"
+    },
+    {
+        "id": "S5425",
+        "description": "Middle East Lub Territory"
+    },
+    {
+        "id": "SEPARATION",
+        "description": "Retired and resigned user group"
+    },
+    {
+        "id": "SUPER",
+        "description": ""
+    },
+    {
+        "id": "SUPER_ADMIN",
+        "description": "User Group to Administer Admin Group"
+    },
+    {
+        "id": "TRANSFER",
+        "description": "User group for employees in TRANSFER"
+    },
+    {
+        "id": "VIGILANCE",
+        "description": "Vigilance"
+    }
+]

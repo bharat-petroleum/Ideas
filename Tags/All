@@ -1,0 +1,26 @@
+[
+    {
+        "id": "ai",
+        "description": "Artificial Technology"
+    },
+    {
+        "id": "genai",
+        "description": "Generative AI"
+    },
+    {
+        "id": "ml",
+        "description": "Machine Learning"
+    },
+    {
+        "id": "petrol",
+        "description": "Petrol"
+    },
+    {
+        "id": "ro",
+        "description": "Retail Outlet"
+    },
+    {
+        "id": "technology",
+        "description": "Technology"
+    }
+]

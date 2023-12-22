@@ -1,0 +1,22 @@
+[
+    {
+        "id": "FI",
+        "name": "Finance"
+    },
+    {
+        "id": "GAS",
+        "name": "Gas"
+    },
+    {
+        "id": "IS",
+        "name": "Information Systems"
+    },
+    {
+        "id": "LPG",
+        "name": "LPG"
+    },
+    {
+        "id": "RET",
+        "name": "Retail"
+    }
+]

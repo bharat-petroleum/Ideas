@@ -1,0 +1,38 @@
+[
+    {
+        "id": "BI",
+        "description": "Brand Image"
+    },
+    {
+        "id": "CS",
+        "description": "Customer Satisfaction"
+    },
+    {
+        "id": "ENZ",
+        "description": "Environment/Net Zero"
+    },
+    {
+        "id": "NPP",
+        "description": "New Product/Process"
+    },
+    {
+        "id": "OnE",
+        "description": "Operations/Engineering"
+    },
+    {
+        "id": "PI",
+        "description": "Process Improvement"
+    },
+    {
+        "id": "SnI",
+        "description": "Safey/Inspections"
+    },
+    {
+        "id": "SnM",
+        "description": "Sales/Marketing"
+    },
+    {
+        "id": "SR",
+        "description": "Social Responsibility"
+    }
+]

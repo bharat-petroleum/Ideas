@@ -1,0 +1,21 @@
+{
+    "name": "SATISH KUMAR YADAV",
+    "email": "satishkyadav@bharatpetroleum.in",
+    "staffNumber": 20131,
+    "firstName": "SATISH",
+    "middleName": "KUMAR",
+    "lastName": "YADAV",
+    "designation": "TEAM MEMBER (ERPCC), SEWREE",
+    "gender": "M",
+    "personalArea": "WR01",
+    "locationCode": "W035",
+    "locationName": "Sewree K",
+    "title": "Mr",
+    "sbuText": "INFORMATION SYSTEMS",
+    "sbuCode": "00000586",
+    "personalAreaText": "Western Region",
+    "userGroup": "ERPCC",
+    "officeState": "Maharashtra",
+    "officeCity": "MUMBAI",
+    "officePinCode": "400015"
+}

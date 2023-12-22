@@ -1,0 +1,15 @@
+
+[
+    {
+        "id": "ENGG",
+        "description": "Engineering"
+    },
+    {
+        "id": "OPS",
+        "description": "Operations"
+    },
+    {
+        "id": "SL",
+        "description": "Sales"
+    }
+]
